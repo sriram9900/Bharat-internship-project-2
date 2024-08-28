@@ -1,0 +1,97 @@
+CSS:
+
+   body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  header {
+    background-color: #24ad57;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  header a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 1rem;
+  }
+  
+  header a:hover {
+    text-decoration: underline;
+  }
+  
+  main {
+    padding: 1rem;
+  }
+  
+  .post-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .post-list li {
+    background: #fff;
+    border: 1px solid #ddd;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border-radius: 5px;
+  }
+  
+  .post-list h2 {
+    margin: 0;
+  }
+  
+  .post-list p {
+    margin: 0.5rem 0;
+  }
+  
+  form {
+    background: #fff;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  form label {
+    display: block;
+    margin: 0.5rem 0;
+  }
+  
+  form input, form textarea {
+    width: 100%;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  form button {
+    background: burlywood;
+    color: #fff;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  form button:hover {
+    background: #555;
+  }
+  
+  article {
+    background: #fff;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  article small {
+    display: block;
+    margin-top: 1rem;
+    color: #666;
+  }
+  
